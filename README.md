@@ -1,1 +1,1 @@
-# lorem-studio
+# Lorem Studio
