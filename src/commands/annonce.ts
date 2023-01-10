@@ -166,7 +166,7 @@ namespace Command {
                     components:[row]
                 })
                 .then(message => {
-                    message.react('✔')
+                    message.react('✅')
                     message.react('❌')
                     message.react('😐')
                 })
