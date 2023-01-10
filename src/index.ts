@@ -20,8 +20,8 @@ console.log(token, clientId, guildId);
 
 client["commands"] = new Collection();
 const commandsPath = path.join(__dirname, 'commands');
-const commands = [];
-const exCommands = [];
+const commands:any = [];
+const exCommands:any = [];
 // Grab all the command files from the commands directory you created earlier
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
