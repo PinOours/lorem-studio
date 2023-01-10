@@ -5,7 +5,10 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "run": "node ."
+    "install":"npm i",
+    "run": "node .",
+    "detach": "screen -S lorembot npm run run",
+    "resume": "screen -r lorembot"
   },
   "keywords": [],
   "author": "",

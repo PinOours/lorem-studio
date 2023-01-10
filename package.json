@@ -10,6 +10,7 @@
   "author": "bnmkt <b.kt@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "install":"npm i",
     "@types/node": "^18.11.18"
   },
   "dependencies": {},
