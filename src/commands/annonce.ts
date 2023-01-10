@@ -166,9 +166,9 @@ namespace Command {
                     components:[row]
                 })
                 .then(message => {
-                    message.react('🟢')
-                    message.react('🔴')
-                    message.react('🟠')
+                    message.react('✔')
+                    message.react('❌')
+                    message.react('😐')
                 })
             if (get("thread") == "1") {
                 const thread = await channel.threads.create({
