@@ -7,10 +7,19 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "bnmkt <b.kt@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.18"
   },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinOours/lorem-studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PinOours/lorem-studio/issues"
+  },
+  "homepage": "https://github.com/PinOours/lorem-studio#readme",
   "description": ""
 }
