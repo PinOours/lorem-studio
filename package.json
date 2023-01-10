@@ -4,7 +4,8 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "update": "su debian && cd ~ && rm -rf ./lorem-studio && git clone --branch lorembot git@github.com:PinOours/lorem-studio.git && sudo cp -r ./lorem-studio/* /var/www/lorembot"
   },
   "keywords": [],
   "author": "bnmkt <b.kt@hotmail.com>",
