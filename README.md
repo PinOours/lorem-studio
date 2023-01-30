@@ -2,7 +2,7 @@
 
 Lorem Craft est un serveur auto-hébergé.
 
-## Mods link
+## Mod links
 
 The forge server is in 1.19.2.
 
