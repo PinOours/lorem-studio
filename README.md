@@ -1,6 +1,6 @@
 # Lorem Craft
 
-Lorem Craft est un serveur auto-hébergé.
+Lorem Craft is a modded Minecraft server self-hosted. It runs a copple of mod that you can see bellow. 
 
 ## Mod links
 
