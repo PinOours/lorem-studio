@@ -8,6 +8,7 @@ Voici un p'tit tuto pour installer le modpack minecraft :
 
 ## Mods link
 
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3922622)
-* [Create]()
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create) -> Create 1.19.2 v0.5.0g
 * [Simple planes]()
+* [Easier Sleeping]()
+* World Edit (server side)
