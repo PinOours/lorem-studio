@@ -2,10 +2,6 @@
 
 Lorem Craft est un serveur auto-hébergé.
 
-## Modpack maison
-
-Voici un p'tit tuto pour installer le modpack minecraft :
-
 ## Mods link
 
 The forge server is in 1.19.2.
