@@ -2,6 +2,12 @@
 
 Lorem Craft is a modded Minecraft server self-hosted. It runs a copple of mod that you can see bellow. 
 
+## Modpack link
+
+Download the whole modpack and copy each files in your "mods" folder
+
+* [Lorem modpack](https://github.com/PinOours/lorem-studio/archive/refs/heads/modpack.zip)
+
 ## Mod links
 
 The forge server is in 1.19.2. Once you're on the curseforge page, click on Files and search for the good version of the mod.
